@@ -1,1 +1,3 @@
     THIS is the new file created in master branch for understanding rebase
+    Another line added such as samsung-girls
+    
